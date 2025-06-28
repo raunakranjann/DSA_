@@ -18,6 +18,19 @@ public static void printWord(String N){
     }
 }
 
+
+
+
+
+sSystem.out.println("My name is Raunak Ranjan");
+
+
+
+
+
+
+
+
 public static void printValue(char num){
  switch (num) {
             case 0:
